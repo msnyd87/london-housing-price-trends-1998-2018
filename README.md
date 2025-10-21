@@ -26,5 +26,5 @@ While **Kensington & Chelsea** and **Westminster** remain the most expensive are
 
 ---
 
-*Author: [Your Name]*  
+*Author: Matt Snyder*  
 *Created as part of a data analysis exercise using Python and Jupyter Notebooks.*
